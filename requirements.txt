@@ -1,0 +1,9 @@
+tensorflow-gpu
+scikit-learn
+pandas
+numpy
+selenium
+beautifulsoup4
+urllib
+cv2
+matplotlib

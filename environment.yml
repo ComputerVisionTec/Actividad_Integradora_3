@@ -1,0 +1,8 @@
+name: img_classifier
+dependencies:
+  dependencies:
+  - python
+  - anaconda
+  - pip
+  - pip:
+    - -r file:requirements.txt
