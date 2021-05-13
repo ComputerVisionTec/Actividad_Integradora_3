@@ -1,6 +1,7 @@
 name: img_classifier
+channels:
+  - defaults
 dependencies:
-  dependencies:
   - python
   - anaconda
   - pip
