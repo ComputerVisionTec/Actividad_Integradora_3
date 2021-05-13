@@ -1,4 +1,4 @@
-# Actividad_Integradora_3
+# Actividad Integradora 3.
 
 _Descargar imágenes ..._
 
